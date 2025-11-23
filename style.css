@@ -99,8 +99,8 @@ body {
 
 /* HERO IMAGE */
 .profile-photo {
-  width: 250px;
-  height: 250px;
+  width: 260px;
+  height: 260px;
   object-fit: cover;
   border-radius: 50%;
   border: 6px solid var(--blue);
