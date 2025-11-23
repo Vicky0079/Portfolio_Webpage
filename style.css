@@ -151,6 +151,7 @@ box-shadow: 0 10px 20px var(--shadow);
 
 .skill:hover {
   transform: translateY(-8px);
+  border-color: var(--blue);
  
 }
 
