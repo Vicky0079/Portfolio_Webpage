@@ -212,7 +212,7 @@ box-shadow: 0 10px 20px var(--shadow);
 
 /* CONTACT */
 .contact-section {
-  margin-top: 7rem;
+  margin-top: 4rem;
   background: linear-gradient(135deg, var(--blue-light), var(--white));
   padding: 3rem;
   border-radius: var(--radius);
